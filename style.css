@@ -1,8 +1,12 @@
 /* Tag selector to select the 'body' element */
-body { color
-  /* Your code here! */
+body { 
+  color: light blue;
 }
 
+{
+  color: blue;
+  font-family: Georgia;
+}
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   /* Your code here! */
